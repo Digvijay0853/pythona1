@@ -1,0 +1,24 @@
+Group	Country	Rank	Jersey	Position	Age	Selections	Club	Player	Captain
+F	Argentina	5	12	Goalie	32	3	Boca Juniors  	Agustin Orion	0
+F	Argentina	5	21	Goalie	30	10	Catania   	Mariano Andujar	0
+F	Argentina	5	1	Goalie	27	45	Monaco   	Sergio Romero	0
+F	Argentina	5	2	Defender	27	18	Benfica   	Ezequiel Garay	0
+F	Argentina	5	17	Defender	25	24	Napoli   	Federico Fernandez	0
+F	Argentina	5	3	Defender	33	13	Internazionale   	Hugo Campagnaro	0
+F	Argentina	5	23	Defender	30	8	Monterrey   	Jose Maria Basanta	0
+F	Argentina	5	16	Defender	24	20	Sporting   	Marcos Rojo	0
+F	Argentina	5	15	Defender	33	37	Manchester City  	Martin Demichelis	0
+F	Argentina	5	4	Defender	29	36	Manchester City  	Pablo Zabaleta	0
+F	Argentina	5	7	Midfielder	26	45	Real Madrid  	angel di Maria	0
+F	Argentina	5	13	Midfielder	28	7	Celta Vigo  	Augusto Fernandez	0
+F	Argentina	5	8	Midfielder	28	5	Benfica   	Enzo Perez	0
+F	Argentina	5	5	Midfielder	28	47	Boca Juniors  	Fernando Gago	0
+F	Argentina	5	14	Midfielder	29	96	Barcelona   	Javier Mascherano	0
+F	Argentina	5	6	Midfielder	28	16	Lazio   	Lucas Biglia	0
+F	Argentina	5	11	Midfielder	33	53	Newell's Old Boys 	Maxi Rodriguez	0
+F	Argentina	5	19	Midfielder	26	5	Internazionale   	Ricardo alvarez	0
+F	Argentina	5	22	Forward	29	29	Paris Saint-Germain  	Ezequiel Lavezzi	0
+F	Argentina	5	9	Forward	26	36	Napoli   	Gonzalo Higuain	0
+F	Argentina	5	10	Forward	26	84	Barcelona   	Lionel Messi 	1
+F	Argentina	5	18	Forward	32	15	Internazionale   	Rodrigo Palacio	0
+F	Argentina	5	20	Forward	26	50	Manchester City  	Sergio AgÃ¼ero	0

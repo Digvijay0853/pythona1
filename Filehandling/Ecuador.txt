@@ -1,0 +1,24 @@
+Group	Country	Rank	Jersey	Position	Age	Selections	Club	Player	Captain
+E	Ecuador	26	12	Goalie	25	3	El Nacional  	Adrian Bone	0
+E	Ecuador	26	22	Goalie	27	18	LDU Quito  	Alexander Dominguez	0
+E	Ecuador	26	1	Goalie	28	24	Barcelona   	Maximo Banguera	0
+E	Ecuador	26	3	Defender	26	36	Flamengo   	Frickson Erazo	0
+E	Ecuador	26	21	Defender	29	22	Emelec   	Gabriel Achilier	0
+E	Ecuador	26	2	Defender	32	58	Emelec   	Jorge Guagua	0
+E	Ecuador	26	4	Defender	26	37	Barcelona   	Juan Carlos Paredes	0
+E	Ecuador	26	18	Defender	31	21	Emelec   	oscar BagÃ¼i	0
+E	Ecuador	26	10	Defender	34	89	Pachuca   	Walter Ayovi	0
+E	Ecuador	26	16	Midfielder	28	70	Manchester United  	Antonio Valencia 	1
+E	Ecuador	26	23	Midfielder	19	2	VfB Stuttgart  	Carlos Gruezo	0
+E	Ecuador	26	6	Midfielder	29	41	Dynamo Moscow  	Christian Noboa	0
+E	Ecuador	26	8	Midfielder	35	109	Santa Fe  	Edison Mendez	0
+E	Ecuador	26	20	Midfielder	24	8	Tijuana   	Fidel Martinez	0
+E	Ecuador	26	7	Midfielder	24	39	Morelia   	Jefferson Montero	0
+E	Ecuador	26	9	Midfielder	24	29	Cruz Azul  	Joao Rojas	0
+E	Ecuador	26	19	Midfielder	30	48	Barcelona   	Luis Saritama	0
+E	Ecuador	26	15	Midfielder	27	20	Atlante   	Michael Arroyo	0
+E	Ecuador	26	5	Midfielder	23	17	Vitesse   	Renato Ibarra	0
+E	Ecuador	26	14	Midfielder	32	81	Al-Hilal   	Segundo Castillo	0
+E	Ecuador	26	13	Forward	25	9	Pachuca   	Enner Valencia	0
+E	Ecuador	26	11	Forward	25	49	Al-Jazira   	Felipe Caicedo	0
+E	Ecuador	26	17	Forward	26	30	Tijuana   	Jaime Ayovi	0

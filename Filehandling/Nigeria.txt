@@ -1,0 +1,24 @@
+Group	Country	Rank	Jersey	Position	Age	Selections	Club	Player	Captain
+F	Nigeria	44	16	Goalie	30	32	Hapoel Be'er Sheva 	Austin Ejide	0
+F	Nigeria	44	21	Goalie	29	11	Gombe United  	Chigozie Agbim	0
+F	Nigeria	44	1	Goalie	31	90	Lille   	Vincent Enyeama 	1
+F	Nigeria	44	6	Defender	24	32	Warri Wolves  	Azubuike Egwuekwe	0
+F	Nigeria	44	5	Defender	25	36	Celtic   	Efe Ambrose	0
+F	Nigeria	44	14	Defender	23	35	caykur Rizespor  	GoDefenderrey Oboabona	0
+F	Nigeria	44	2	Defender	33	96	Norwich City  	Joseph Yobo	0
+F	Nigeria	44	13	Defender	23	10	Ashdod   	Juwon Oshaniwa	0
+F	Nigeria	44	22	Defender	20	17	Middlesbrough   	Kenneth Omeruo	0
+F	Nigeria	44	12	Defender	24	10	Sunshine Stars  	Kunle Odunlami	0
+F	Nigeria	44	3	Defender	26	42	Monaco   	Uwa Elderson Echiejile	0
+F	Nigeria	44	10	Midfielder	27	59	Chelsea   	John Obi Mikel	0
+F	Nigeria	44	18	Midfielder	21	4	Volyn Lutsk  	Michael Babatunde	0
+F	Nigeria	44	17	Midfielder	21	20	Lazio   	Ogenyi Onazi	0
+F	Nigeria	44	15	Midfielder	21	1	Almeria   	Ramon Azeez	0
+F	Nigeria	44	4	Midfielder	23	11	Waasland-Beveren   	Reuben Gabriel	0
+F	Nigeria	44	11	Midfielder	23	20	Liverpool   	Victor Moses	0
+F	Nigeria	44	7	Forward	21	35	CSKA Moscow  	Ahmed Musa	0
+F	Nigeria	44	9	Forward	27	22	Fenerbahce   	Emmanuel Emenike	0
+F	Nigeria	44	20	Forward	24	3	Cercle Brugge  	Michael Uchebo	0
+F	Nigeria	44	8	Forward	32	60	Stoke City  	Peter Odemwingie	0
+F	Nigeria	44	23	Forward	32	6	Newcastle United  	Shola Ameobi	0
+F	Nigeria	44	19	Forward	22	6	Heerenveen   	Uche Nwofor	0

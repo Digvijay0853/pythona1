@@ -1,0 +1,48 @@
+Group	Country	Rank	Jersey	Position	Age	Selections	Club	Player	Captain
+A	Mexico	20	12	Goalie	31	14	Toluca   	Alfredo Talavera	0
+A	Mexico	20	13	Goalie	28	59	Ajaccio   	Guillermo Ochoa	0
+A	Mexico	20	1	Goalie	33	34	Cruz Azul  	Jose de Jesus Corona	0
+A	Mexico	20	18	Defender	27	104	Bayer Leverkusen  	Andres Guardado	0
+A	Mexico	20	3	Defender	34	122	UANL   	Carlos Salcido	0
+A	Mexico	20	5	Defender	21	14	Porto   	Diego Reyes	0
+A	Mexico	20	2	Defender	32	95	America   	Francisco Javier Rodriguez	0
+A	Mexico	20	15	Defender	26	53	Espanyol   	Hector Moreno	0
+A	Mexico	20	16	Defender	25	8	Toluca   	Miguel Angel Ponce	0
+A	Mexico	20	7	Defender	25	15	America   	Miguel Layun	0
+A	Mexico	20	22	Defender	28	30	America   	Paul Aguilar	0
+A	Mexico	20	4	Defender	35	120	Leon   	Rafael Marquez 	1
+A	Mexico	20	21	Midfielder	24	16	Leon   	Carlos Pena	0
+A	Mexico	20	6	Midfielder	24	13	Porto   	Hector Herrera	0
+A	Mexico	20	17	Midfielder	23	7	Toluca   	Isaac Brizuela	0
+A	Mexico	20	20	Midfielder	24	22	Villarreal   	Javier Aquino	0
+A	Mexico	20	23	Midfielder	26	5	Leon   	Jose Juan Vazquez	0
+A	Mexico	20	8	Midfielder	24	15	Cruz Azul  	Marco Fabian	0
+A	Mexico	20	11	Forward	23	6	UANL   	Alan Pulido	0
+A	Mexico	20	10	Forward	25	76	Villarreal   	Giovani dos Santos	0
+A	Mexico	20	14	Forward	26	62	Manchester United  	Javier Hernandez	0
+A	Mexico	20	19	Forward	30	33	Santos Laguna  	Oribe Peralta	0
+A	Mexico	20	9	Forward	23	25	America   	Raul Jimenez	0
+Group	Country	Rank	Jersey	Position	Age	Selections	Club	Player	Captain
+A	Mexico	20	12	Goalie	31	14	Toluca   	Alfredo Talavera	0
+A	Mexico	20	13	Goalie	28	59	Ajaccio   	Guillermo Ochoa	0
+A	Mexico	20	1	Goalie	33	34	Cruz Azul  	Jose de Jesus Corona	0
+A	Mexico	20	18	Defender	27	104	Bayer Leverkusen  	Andres Guardado	0
+A	Mexico	20	3	Defender	34	122	UANL   	Carlos Salcido	0
+A	Mexico	20	5	Defender	21	14	Porto   	Diego Reyes	0
+A	Mexico	20	2	Defender	32	95	America   	Francisco Javier Rodriguez	0
+A	Mexico	20	15	Defender	26	53	Espanyol   	Hector Moreno	0
+A	Mexico	20	16	Defender	25	8	Toluca   	Miguel Angel Ponce	0
+A	Mexico	20	7	Defender	25	15	America   	Miguel Layun	0
+A	Mexico	20	22	Defender	28	30	America   	Paul Aguilar	0
+A	Mexico	20	4	Defender	35	120	Leon   	Rafael Marquez 	1
+A	Mexico	20	21	Midfielder	24	16	Leon   	Carlos Pena	0
+A	Mexico	20	6	Midfielder	24	13	Porto   	Hector Herrera	0
+A	Mexico	20	17	Midfielder	23	7	Toluca   	Isaac Brizuela	0
+A	Mexico	20	20	Midfielder	24	22	Villarreal   	Javier Aquino	0
+A	Mexico	20	23	Midfielder	26	5	Leon   	Jose Juan Vazquez	0
+A	Mexico	20	8	Midfielder	24	15	Cruz Azul  	Marco Fabian	0
+A	Mexico	20	11	Forward	23	6	UANL   	Alan Pulido	0
+A	Mexico	20	10	Forward	25	76	Villarreal   	Giovani dos Santos	0
+A	Mexico	20	14	Forward	26	62	Manchester United  	Javier Hernandez	0
+A	Mexico	20	19	Forward	30	33	Santos Laguna  	Oribe Peralta	0
+A	Mexico	20	9	Forward	23	25	America   	Raul Jimenez	0

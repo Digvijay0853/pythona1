@@ -1,0 +1,48 @@
+Group	Country	Rank	Jersey	Position	Age	Selections	Club	Player	Captain
+B	Chile	14	1	Goalie	31	79	Real Sociedad  	Claudio Bravo 	1
+B	Chile	14	12	Goalie	25	4	Universidad Catolica  	Cristopher Toselli	0
+B	Chile	14	23	Goalie	33	8	Universidad de Chili 	Johnny Herrera	0
+B	Chile	14	2	Defender	25	25	Santos   	Eugenio Mena	0
+B	Chile	14	17	Defender	26	61	Cardiff City  	Gary Medel	0
+B	Chile	14	18	Defender	28	65	Nottingham Forest  	Gonzalo Jara	0
+B	Chile	14	13	Defender	31	19	Universidad de Chili 	Jose Rojas	0
+B	Chile	14	3	Defender	23	2	Malmö FF  	Miiko Albornoz	0
+B	Chile	14	8	Midfielder	27	54	Juventus   	Arturo Vidal	0
+B	Chile	14	6	Midfielder	27	44	Atalanta   	Carlos Carmona	0
+B	Chile	14	20	Midfielder	25	21	Internacional   	Charles Aranguiz	0
+B	Chile	14	14	Midfielder	28	26	Celta Vigo  	Fabian Orellana	0
+B	Chile	14	16	Midfielder	23	18	Twente   	Felipe Gutierrez	0
+B	Chile	14	5	Midfielder	28	12	Osasuna   	Francisco Silva	0
+B	Chile	14	15	Midfielder	30	59	Wigan Athletic  	Jean Beausejour	0
+B	Chile	14	10	Midfielder	30	57	Palmeiras   	Jorge Valdivia	0
+B	Chile	14	19	Midfielder	29	23	Colo-Colo   	Jose Pedro Fuenzalida	0
+B	Chile	14	21	Midfielder	27	21	Basel   	Marcelo Diaz	0
+B	Chile	14	4	Midfielder	25	47	Juventus   	Mauricio Isla	0
+B	Chile	14	7	Forward	25	67	Barcelona   	Alexis Sanchez	0
+B	Chile	14	11	Forward	24	30	Valencia   	Eduardo Vargas	0
+B	Chile	14	22	Forward	33	35	Colo-Colo   	Esteban Paredes	0
+B	Chile	14	9	Forward	30	27	Cagliari   	Mauricio Pinilla	0
+Group	Country	Rank	Jersey	Position	Age	Selections	Club	Player	Captain
+B	Chile	14	1	Goalie	31	79	Real Sociedad  	Claudio Bravo 	1
+B	Chile	14	12	Goalie	25	4	Universidad Catolica  	Cristopher Toselli	0
+B	Chile	14	23	Goalie	33	8	Universidad de Chili 	Johnny Herrera	0
+B	Chile	14	2	Defender	25	25	Santos   	Eugenio Mena	0
+B	Chile	14	17	Defender	26	61	Cardiff City  	Gary Medel	0
+B	Chile	14	18	Defender	28	65	Nottingham Forest  	Gonzalo Jara	0
+B	Chile	14	13	Defender	31	19	Universidad de Chili 	Jose Rojas	0
+B	Chile	14	3	Defender	23	2	MalmÃ¶ FF  	Miiko Albornoz	0
+B	Chile	14	8	Midfielder	27	54	Juventus   	Arturo Vidal	0
+B	Chile	14	6	Midfielder	27	44	Atalanta   	Carlos Carmona	0
+B	Chile	14	20	Midfielder	25	21	Internacional   	Charles Aranguiz	0
+B	Chile	14	14	Midfielder	28	26	Celta Vigo  	Fabian Orellana	0
+B	Chile	14	16	Midfielder	23	18	Twente   	Felipe Gutierrez	0
+B	Chile	14	5	Midfielder	28	12	Osasuna   	Francisco Silva	0
+B	Chile	14	15	Midfielder	30	59	Wigan Athletic  	Jean Beausejour	0
+B	Chile	14	10	Midfielder	30	57	Palmeiras   	Jorge Valdivia	0
+B	Chile	14	19	Midfielder	29	23	Colo-Colo   	Jose Pedro Fuenzalida	0
+B	Chile	14	21	Midfielder	27	21	Basel   	Marcelo Diaz	0
+B	Chile	14	4	Midfielder	25	47	Juventus   	Mauricio Isla	0
+B	Chile	14	7	Forward	25	67	Barcelona   	Alexis Sanchez	0
+B	Chile	14	11	Forward	24	30	Valencia   	Eduardo Vargas	0
+B	Chile	14	22	Forward	33	35	Colo-Colo   	Esteban Paredes	0
+B	Chile	14	9	Forward	30	27	Cagliari   	Mauricio Pinilla	0

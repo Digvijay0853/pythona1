@@ -1,0 +1,24 @@
+Group	Country	Rank	Jersey	Position	Age	Selections	Club	Player	Captain
+D	Uruguay	7	1	Goalie	27	57	Galatasaray   	Fernando Muslera	0
+D	Uruguay	7	23	Goalie	31	4	Vasco da Gama 	Martin Silva	0
+D	Uruguay	7	12	Goalie	32	0	Libertad   	Rodrigo Munoz	0
+D	Uruguay	7	3	Defender	28	76	Atletico Madrid  	Diego Godin	0
+D	Uruguay	7	2	Defender	33	93	West Bromwich Albion 	Diego Lugano 	1
+D	Uruguay	7	13	Defender	29	41	Porto   	Jorge Fucile	0
+D	Uruguay	7	19	Defender	19	5	Atletico Madrid  	Jose Maria Gimenez	0
+D	Uruguay	7	22	Defender	27	56	Juventus   	Martin Caceres	0
+D	Uruguay	7	16	Defender	29	89	Benfica   	Maxi Pereira	0
+D	Uruguay	7	4	Defender	23	14	Nacional   	Sebastian Coates	0
+D	Uruguay	7	20	Midfielder	29	42	Lazio   	alvaro Gonzalez	0
+D	Uruguay	7	6	Midfielder	28	56	SÃ£o Paulo  	alvaro Pereira	0
+D	Uruguay	7	7	Midfielder	28	72	Atletico Madrid  	Cristian Rodriguez	0
+D	Uruguay	7	15	Midfielder	34	89	Bologna   	Diego Perez	0
+D	Uruguay	7	17	Midfielder	32	54	Morelia   	Egidio Arevalo Rios	0
+D	Uruguay	7	18	Midfielder	23	28	Southampton   	Gaston Ramirez	0
+D	Uruguay	7	14	Midfielder	25	26	Botafogo   	Nicolas Lodeiro	0
+D	Uruguay	7	5	Midfielder	29	62	Parma   	Walter Gargano	0
+D	Uruguay	7	8	Forward	23	12	Palermo   	Abel Hernandez	0
+D	Uruguay	7	11	Forward	27	9	Espanyol   	Christian Stuani	0
+D	Uruguay	7	10	Forward	35	109	Cerezo Osaka  	Diego Forlan	0
+D	Uruguay	7	21	Forward	27	61	Paris Saint-Germain  	Edinson Cavani	0
+D	Uruguay	7	9	Forward	27	77	Liverpool   	Luis Suarez	0

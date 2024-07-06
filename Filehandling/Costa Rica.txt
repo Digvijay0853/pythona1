@@ -1,0 +1,24 @@
+Group	Country	Rank	Jersey	Position	Age	Selections	Club	Player	Captain
+D	Costa Rica	28	23	Goalie	28	2	Herediano   	Daniel Cambronero	0
+D	Costa Rica	28	1	Goalie	27	53	Levante   	Keylor Navas	0
+D	Costa Rica	28	18	Goalie	32	21	Alajuelense   	Patrick Pemberton	0
+D	Costa Rica	28	16	Defender	24	24	Rosenborg   	Cristian Gamboa	0
+D	Costa Rica	28	3	Defender	26	34	Columbus Crew  	Giancarlo Gonzalez	0
+D	Costa Rica	28	8	Defender	29	22	Saprissa   	Heiner Mora	0
+D	Costa Rica	28	2	Defender	30	27	Alajuelense   	Johnny Acosta	0
+D	Costa Rica	28	15	Defender	30	58	Mainz 5  	Junior Diaz	0
+D	Costa Rica	28	4	Defender	31	79	Saprissa   	Michael Umana	0
+D	Costa Rica	28	6	Defender	25	11	Club Brugge  	Oscar Duarte	0
+D	Costa Rica	28	19	Defender	29	47	New York Red Bulls	Roy Miller	0
+D	Costa Rica	28	12	Defender	23	1	Columbus Crew  	Waylon Francis	0
+D	Costa Rica	28	5	Midfielder	26	63	AIK   	Celso Borges	0
+D	Costa Rica	28	7	Midfielder	30	55	Copenhagen   	Christian Bolanos	0
+D	Costa Rica	28	20	Midfielder	23	10	VÃ¥lerenga   	Diego Calvo	0
+D	Costa Rica	28	13	Midfielder	28	11	Herediano   	Esteban Granados	0
+D	Costa Rica	28	22	Midfielder	27	36	Herediano   	Jose Miguel Cubero	0
+D	Costa Rica	28	11	Midfielder	30	51	Aalesund   	Michael Barrantes	0
+D	Costa Rica	28	17	Midfielder	22	22	Saprissa   	Yeltsin Tejeda	0
+D	Costa Rica	28	10	Forward	28	62	PSV   	Bryan Ruiz 	1
+D	Costa Rica	28	9	Forward	21	33	Olympiacos   	Joel Campbell	0
+D	Costa Rica	28	21	Forward	24	25	Kuban Krasnodar  	Marco Urena	0
+D	Costa Rica	28	14	Forward	30	37	Cartagines   	Randall Brenes	0

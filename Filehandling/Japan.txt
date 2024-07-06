@@ -1,0 +1,29 @@
+Group	Country	Rank	Jersey	Position	Age	Selections	Club	Player	Captain
+C	Japan	46	1	Goalie	31	56	Standard Liege  	Eiji Kawashima	0
+C	Japan	46	23	Goalie	25	2	F.C. Tokyo  	Shūichi Gonda	0
+C	Japan	46	12	Goalie	27	12	Urawa Red Diamonds 	Shusaku Nishikawa	0
+C	Japan	46	2	Defender	26	67	Schalke 4  	Atsuto Uchida	0
+Group	Country	Rank	Jersey	Position	Age	Selections	Club	Player	Captain
+C	Japan	46	1	Goalie	31	56	Standard Liege  	Eiji Kawashima	0
+C	Japan	46	23	Goalie	25	2	F.C. Tokyo  	ShÅ«ichi Gonda	0
+C	Japan	46	12	Goalie	27	12	Urawa Red Diamonds 	Shusaku Nishikawa	0
+C	Japan	46	2	Defender	26	67	Schalke 4  	Atsuto Uchida	0
+C	Japan	46	3	Defender	23	12	VfB Stuttgart  	GÅtoku Sakai	0
+C	Japan	46	21	Defender	24	17	Hannover 96  	Hiroki Sakai	0
+C	Japan	46	19	Defender	30	21	Jubilo Iwata  	Masahiko Inoha	0
+C	Japan	46	6	Defender	27	9	F.C. Tokyo  	Masato Morishige	0
+C	Japan	46	22	Defender	25	40	Southampton   	Maya Yoshida	0
+C	Japan	46	15	Defender	31	80	Gamba Osaka  	Yasuyuki Konno	0
+C	Japan	46	5	Defender	27	69	Internazionale   	Yuto Nagatomo	0
+C	Japan	46	8	Midfielder	24	25	1. FC NÃ¼rnberg 	Hiroshi Kiyotake	0
+C	Japan	46	16	Midfielder	23	11	Cerezo Osaka  	Hotaru Yamaguchi	0
+C	Japan	46	4	Midfielder	27	55	Milan   	Keisuke Honda	0
+C	Japan	46	17	Midfielder	30	78	1. FC NÃ¼rnberg 	Makoto Hasebe 	1
+C	Japan	46	10	Midfielder	25	56	Manchester United  	Shinji Kagawa	0
+C	Japan	46	14	Midfielder	28	5	Sanfrecce Hiroshima  	Toshihiro Aoyama	0
+C	Japan	46	7	Midfielder	34	143	Gamba Osaka  	Yasuhito EndÅ	0
+C	Japan	46	20	Forward	24	4	Yokohama F. Marinos 	Manabu SaitÅ	0
+C	Japan	46	9	Forward	28	75	Mainz 5  	Shinji Okazaki	0
+C	Japan	46	11	Forward	24	11	Cerezo Osaka  	Yoichiro Kakitani	0
+C	Japan	46	13	Forward	31	56	Kawasaki Frontale  	Yoshito ÅŒkubo	0
+C	Japan	46	18	Forward	24	8	1860 MÃ¼nchen  	Yuya Osako	0

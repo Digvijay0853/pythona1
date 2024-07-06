@@ -1,0 +1,24 @@
+Group	Country	Rank	Jersey	Position	Age	Selections	Club	Player	Captain
+H	Russia	19	1	Goalie	28	67	CSKA Moscow  	Igor Akinfeev	0
+H	Russia	19	16	Goalie	33	1	Rubin Kazan  	Sergey Ryzhikov	0
+H	Russia	19	12	Goalie	24	2	Zenit Saint Petersburg 	Yuri Lodygin	0
+H	Russia	19	2	Defender	27	10	Dynamo Moscow  	Aleksei Kozlov	0
+H	Russia	19	6	Defender	25	1	Terek Grozny  	Andrei Semyonov	0
+H	Russia	19	22	Defender	30	11	Anzhi Makhachkala  	Andrey Yeshchenko	0
+H	Russia	19	23	Defender	27	21	Spartak Moscow  	Dmitri Kombarov	0
+H	Russia	19	3	Defender	23	3	CSKA Moscow  	Georgi Shchennikov	0
+H	Russia	19	4	Defender	34	95	CSKA Moscow  	Sergei Ignashevich	0
+H	Russia	19	14	Defender	31	77	CSKA Moscow  	Vasili Berezutski	0
+H	Russia	19	13	Defender	27	4	Dynamo Moscow  	Vladimir Granat	0
+H	Russia	19	10	Midfielder	23	31	CSKA Moscow  	Alan Dzagoev	0
+H	Russia	19	8	Midfielder	27	26	Spartak Moscow  	Denis Glushakov	0
+H	Russia	19	7	Midfielder	30	42	Dynamo Moscow  	Igor Denisov	0
+H	Russia	19	17	Midfielder	23	6	Zenit Saint Petersburg 	Oleg Shatov	0
+H	Russia	19	15	Midfielder	21	1	Rubin Kazan  	Pavel Mogilevets	0
+H	Russia	19	20	Midfielder	28	18	Zenit Saint Petersburg 	Viktor Fayzulin	0
+H	Russia	19	11	Forward	31	79	Zenit Saint Petersburg 	Aleksandr Kerzhakov	0
+H	Russia	19	9	Forward	23	20	Dynamo Moscow  	Aleksandr Kokorin	0
+H	Russia	19	19	Forward	29	16	Lokomotiv Moscow  	Aleksandr Samedov	0
+H	Russia	19	18	Forward	25	5	Dynamo Moscow  	Aleksei Ionov	0
+H	Russia	19	21	Forward	22	2	Rubin Kazan  	Maksim Kanunnikov	0
+H	Russia	19	5	Forward	30	59	Dynamo Moscow  	Yuri Zhirkov	0

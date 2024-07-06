@@ -1,0 +1,24 @@
+Group	Country	Rank	Jersey	Position	Age	Selections	Club	Player	Captain
+E	Honduras	33	22	Goalie	34	26	Olimpia   	Donis Escober	0
+E	Honduras	33	1	Goalie	20	0	Real Espana  	Luis Lopez	0
+E	Honduras	33	18	Goalie	37	121	Olimpia   	Noel Valladares 	1
+E	Honduras	33	23	Defender	28	22	Olimpia   	Brayan Beckeles	0
+E	Honduras	33	7	Defender	28	67	Celtic   	Emilio Izaguirre	0
+E	Honduras	33	6	Defender	26	33	Wigan Athletic  	Juan Carlos Garcia	0
+E	Honduras	33	4	Defender	28	11	Motagua   	Juan Pablo Montes	0
+E	Honduras	33	3	Defender	31	104	Hull City  	Maynor Figueroa	0
+E	Honduras	33	2	Defender	29	54	Qingdao Jonoon  	Osman Chavez	0
+E	Honduras	33	5	Defender	32	77	San Jose Earthquakes 	Victor Bernardez	0
+E	Honduras	33	21	Midfielder	21	16	Anderlecht   	Andy Najar	0
+E	Honduras	33	12	Midfielder	27	25	Real Espana  	Edder Delgado	0
+E	Honduras	33	20	Midfielder	28	48	Motagua   	Jorge Claros	0
+E	Honduras	33	19	Midfielder	23	19	Olimpia   	Luis Garrido	0
+E	Honduras	33	10	Midfielder	24	35	Real Espana  	Mario Martinez	0
+E	Honduras	33	17	Midfielder	30	41	Chivas USA  	Marvin Chavez	0
+E	Honduras	33	14	Midfielder	29	92	Houston Dynamo  	oscar Garcia	0
+E	Honduras	33	15	Midfielder	27	41	Wigan Athletic  	Roger Espinoza	0
+E	Honduras	33	8	Midfielder	29	94	Stoke City  	Wilson Palacios	0
+E	Honduras	33	13	Forward	31	69	Real Espana  	Carlo Costly	0
+E	Honduras	33	11	Forward	27	43	New Angleterre Revolution 	Jerry Bengtson	0
+E	Honduras	33	9	Forward	32	23	Alajuelense   	Jerry Palacios	0
+E	Honduras	33	16	Forward	25	12	Real Sociedad  	Rony Martinez	0

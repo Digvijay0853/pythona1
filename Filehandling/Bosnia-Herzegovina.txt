@@ -1,0 +1,24 @@
+Group	Country	Rank	Jersey	Position	Age	Selections	Club	Player	Captain
+F	Bosnia-Herzegovina	21	22	Goalie	33	3	and Herzegovina Borac Banja	Asmir Avdukic	0
+F	Bosnia-Herzegovina	21	1	Goalie	26	30	Stoke City  	Asmir Begovic	0
+F	Bosnia-Herzegovina	21	12	Goalie	28	0	VfR Aalen  	Jasmin Fejzic	0
+F	Bosnia-Herzegovina	21	2	Defender	28	13	Hajduk Split  	Avdija Vrsajevic	0
+F	Bosnia-Herzegovina	21	4	Defender	33	74	Bayer Leverkusen  	Emir Spahic 	1
+F	Bosnia-Herzegovina	21	3	Defender	24	7	Eintracht Braunschweig  	Ermin Bicakcic	0
+F	Bosnia-Herzegovina	21	13	Defender	30	24	SC Freiburg  	Mensur Mujdza	0
+F	Bosnia-Herzegovina	21	7	Defender	21	9	Ferencvaros   	Muhamed Besic	0
+F	Bosnia-Herzegovina	21	6	Defender	24	13	ElazÄ±ÄŸspor   	Ognjen Vranjes	0
+F	Bosnia-Herzegovina	21	5	Defender	20	4	Schalke 4  	Sead Kolasinac	0
+F	Bosnia-Herzegovina	21	15	Defender	25	7	Zorya Luhansk  	Toni sunjic	0
+F	Bosnia-Herzegovina	21	20	Midfielder	24	2	Sturm Graz  	Anel Hadzic	0
+F	Bosnia-Herzegovina	21	18	Midfielder	29	35	Gaziantepspor   	Haris Medunjanin	0
+F	Bosnia-Herzegovina	21	14	Midfielder	22	7	Galatasaray   	Izet Hajrovic	0
+F	Bosnia-Herzegovina	21	8	Midfielder	24	48	Roma   	Miralem Pjanic	0
+F	Bosnia-Herzegovina	21	23	Midfielder	29	42	1899 Hoffenheim  	Sejad Salihovic	0
+F	Bosnia-Herzegovina	21	16	Midfielder	28	33	Lazio   	Senad Lulic	0
+F	Bosnia-Herzegovina	21	17	Midfielder	28	42	Kayseri Erciyesspor  	Senijad Ibricic	0
+F	Bosnia-Herzegovina	21	21	Midfielder	22	2	Hajduk Split  	Tino-Sven Susic	0
+F	Bosnia-Herzegovina	21	10	Midfielder	32	82	Guizhou Renhe  	Zvjezdan Misimovic	0
+F	Bosnia-Herzegovina	21	11	Forward	28	62	Manchester City  	Edin Dzeko	0
+F	Bosnia-Herzegovina	21	19	Forward	24	10	Ä°stanbul BB  	Edin Visca	0
+F	Bosnia-Herzegovina	21	9	Forward	29	55	VfB Stuttgart  	Vedad Ibisevic	0

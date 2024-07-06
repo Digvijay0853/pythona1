@@ -1,0 +1,48 @@
+Group	Country	Rank	Jersey	Position	Age	Selections	Club	Player	Captain
+B	Spain	1	12	Goalie	23	1	Manchester United  	David de Gea	0
+B	Spain	1	1	Goalie	33	154	Real Madrid  	Iker Casillas 	1
+B	Spain	1	23	Goalie	31	32	Napoli   	Pepe Reina	0
+B	Spain	1	22	Defender	24	6	Chelsea   	Cesar Azpilicueta	0
+B	Spain	1	3	Defender	27	60	Barcelona   	Gerard Pique	0
+B	Spain	1	18	Defender	25	26	Barcelona   	Jordi Alba	0
+B	Spain	1	5	Defender	29	8	Atletico Madrid  	Juanfran	0
+B	Spain	1	2	Defender	28	46	Napoli   	Raul Albiol	0
+B	Spain	1	15	Defender	28	117	Real Madrid  	Sergio Ramos	0
+B	Spain	1	6	Midfielder	30	97	Barcelona   	Andres Iniesta	0
+B	Spain	1	10	Midfielder	27	89	Barcelona   	Cesc Fabregas	0
+B	Spain	1	21	Midfielder	28	80	Manchester City  	David Silva	0
+B	Spain	1	4	Midfielder	25	17	Bayern Munich  	Javi Martinez	0
+B	Spain	1	13	Midfielder	26	33	Manchester United  	Juan Mata	0
+B	Spain	1	17	Midfielder	22	8	Atletico Madrid  	Koke	0
+B	Spain	1	20	Midfielder	29	64	Arsenal   	Santi Cazorla	0
+B	Spain	1	16	Midfielder	25	65	Barcelona   	Sergio Busquets	0
+B	Spain	1	14	Midfielder	32	111	Real Madrid  	Xabi Alonso	0
+B	Spain	1	8	Midfielder	34	132	Barcelona   	Xavi	0
+B	Spain	1	7	Forward	32	96	Atletico Madrid  	David Villa	0
+B	Spain	1	19	Forward	25	2	Atletico Madrid  	Diego Costa	0
+B	Spain	1	9	Forward	30	107	Chelsea   	Fernando Torres	0
+B	Spain	1	11	Forward	26	40	Barcelona   	Pedro	0
+Group	Country	Rank	Jersey	Position	Age	Selections	Club	Player	Captain
+B	Spain	1	12	Goalie	23	1	Manchester United  	David de Gea	0
+B	Spain	1	1	Goalie	33	154	Real Madrid  	Iker Casillas 	1
+B	Spain	1	23	Goalie	31	32	Napoli   	Pepe Reina	0
+B	Spain	1	22	Defender	24	6	Chelsea   	Cesar Azpilicueta	0
+B	Spain	1	3	Defender	27	60	Barcelona   	Gerard Pique	0
+B	Spain	1	18	Defender	25	26	Barcelona   	Jordi Alba	0
+B	Spain	1	5	Defender	29	8	Atletico Madrid  	Juanfran	0
+B	Spain	1	2	Defender	28	46	Napoli   	Raul Albiol	0
+B	Spain	1	15	Defender	28	117	Real Madrid  	Sergio Ramos	0
+B	Spain	1	6	Midfielder	30	97	Barcelona   	Andres Iniesta	0
+B	Spain	1	10	Midfielder	27	89	Barcelona   	Cesc Fabregas	0
+B	Spain	1	21	Midfielder	28	80	Manchester City  	David Silva	0
+B	Spain	1	4	Midfielder	25	17	Bayern Munich  	Javi Martinez	0
+B	Spain	1	13	Midfielder	26	33	Manchester United  	Juan Mata	0
+B	Spain	1	17	Midfielder	22	8	Atletico Madrid  	Koke	0
+B	Spain	1	20	Midfielder	29	64	Arsenal   	Santi Cazorla	0
+B	Spain	1	16	Midfielder	25	65	Barcelona   	Sergio Busquets	0
+B	Spain	1	14	Midfielder	32	111	Real Madrid  	Xabi Alonso	0
+B	Spain	1	8	Midfielder	34	132	Barcelona   	Xavi	0
+B	Spain	1	7	Forward	32	96	Atletico Madrid  	David Villa	0
+B	Spain	1	19	Forward	25	2	Atletico Madrid  	Diego Costa	0
+B	Spain	1	9	Forward	30	107	Chelsea   	Fernando Torres	0
+B	Spain	1	11	Forward	26	40	Barcelona   	Pedro	0

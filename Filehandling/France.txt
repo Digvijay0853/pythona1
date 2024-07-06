@@ -1,0 +1,24 @@
+Group	Country	Rank	Jersey	Position	Age	Selections	Club	Player	Captain
+E	France	17	1	Goalie	27	56	Tottenham Hotspur  	Hugo Lloris 	1
+E	France	17	23	Goalie	35	11	Bastia   	Mickael Landreau	0
+E	France	17	16	Goalie	27	2	Saint-etienne   	Stephane Ruffier	0
+E	France	17	15	Defender	31	40	Arsenal   	Bacary Sagna	0
+E	France	17	13	Defender	23	3	Porto   	Eliaquim Mangala	0
+E	France	17	21	Defender	28	17	Arsenal   	Laurent Koscielny	0
+E	France	17	17	Defender	20	2	Paris Saint-Germain  	Lucas Digne	0
+E	France	17	5	Defender	24	18	Liverpool   	Mamadou Sakho	0
+E	France	17	2	Defender	28	20	Newcastle United  	Mathieu Debuchy	0
+E	France	17	3	Defender	33	57	Manchester United  	Patrice Evra	0
+E	France	17	4	Defender	21	5	Real Madrid  	Raphael Varane	0
+E	France	17	11	Midfielder	23	3	Real Sociedad  	Antoine Griezmann	0
+E	France	17	14	Midfielder	27	22	Paris Saint-Germain  	Blaise Matuidi	0
+E	France	17	22	Midfielder	24	1	Southampton   	Morgan Schneiderlin	0
+E	France	17	7	Midfielder	24	1	Montpellier	Remy Cabella	0
+E	France	17	8	Midfielder	29	33	Marseille   	Mathieu Valbuena	0
+E	France	17	18	Midfielder	24	16	Newcastle United  	Moussa Sissoko	0
+E	France	17	19	Midfielder	21	10	Juventus   	Paul Pogba	0
+E	France	17	12	Midfielder	30	11	Lille   	Rio Mavuba	0
+E	France	17	6	Midfielder	28	29	Paris Saint-Germain  	Yohan Cabaye	0
+E	France	17	10	Forward	26	65	Real Madrid  	Karim Benzema	0
+E	France	17	20	Forward	27	24	Newcastle United  	Loec Remy	0
+E	France	17	9	Forward	27	29	Arsenal   	Olivier Giroud	0

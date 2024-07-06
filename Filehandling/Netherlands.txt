@@ -1,0 +1,48 @@
+Group	Country	Rank	Jersey	Position	Age	Selections	Club	Player	Captain
+B	Netherlands	15	1	Goalie	25	8	Ajax   	Jasper Cillessen	0
+B	Netherlands	15	22	Goalie	30	14	Swansea City  	Michel Vorm	0
+B	Netherlands	15	23	Goalie	26	5	Newcastle United  	Tim Krul	0
+B	Netherlands	15	4	Defender	22	16	Feyenoord   	Bruno Martins Indi	0
+B	Netherlands	15	5	Defender	24	12	Ajax   	Daley Blind	0
+B	Netherlands	15	7	Defender	24	16	Feyenoord   	Daryl Janmaat	0
+B	Netherlands	15	13	Defender	22	2	Ajax   	Joel Veltman	0
+B	Netherlands	15	12	Defender	30	2	Augsburg   	Paul Verhaegh	0
+B	Netherlands	15	2	Defender	29	24	Aston Villa  	Ron Vlaar	0
+B	Netherlands	15	3	Defender	22	12	Feyenoord   	Stefan de Vrij	0
+B	Netherlands	15	14	Defender	20	1	Feyenoord   	Terence Kongolo	0
+B	Netherlands	15	11	Midfielder	30	75	Bayern Munich  	Arjen Robben	0
+B	Netherlands	15	20	Midfielder	23	5	PSV   	Georginio Wijnaldum	0
+B	Netherlands	15	6	Midfielder	26	10	Swansea City  	Jonathan de Guzman	0
+B	Netherlands	15	16	Midfielder	22	8	Feyenoord   	Jordy Clasie	0
+B	Netherlands	15	18	Midfielder	24	6	Norwich City  	Leroy Fer	0
+B	Netherlands	15	21	Midfielder	20	6	PSV   	Memphis Depay	0
+B	Netherlands	15	8	Midfielder	29	71	Milan   	Nigel de Jong	0
+B	Netherlands	15	10	Midfielder	29	99	Galatasaray   	Wesley Sneijder	0
+B	Netherlands	15	15	Forward	33	98	Fenerbahce   	Dirk Kuyt	0
+B	Netherlands	15	17	Forward	26	22	Dynamo Kyiv  	Jeremain Lens	0
+B	Netherlands	15	19	Forward	30	62	Schalke 4  	Klaas-Jan Huntelaar	0
+B	Netherlands	15	9	Forward	30	85	Manchester United  	Robin van Persie 	1
+Group	Country	Rank	Jersey	Position	Age	Selections	Club	Player	Captain
+B	Netherlands	15	1	Goalie	25	8	Ajax   	Jasper Cillessen	0
+B	Netherlands	15	22	Goalie	30	14	Swansea City  	Michel Vorm	0
+B	Netherlands	15	23	Goalie	26	5	Newcastle United  	Tim Krul	0
+B	Netherlands	15	4	Defender	22	16	Feyenoord   	Bruno Martins Indi	0
+B	Netherlands	15	5	Defender	24	12	Ajax   	Daley Blind	0
+B	Netherlands	15	7	Defender	24	16	Feyenoord   	Daryl Janmaat	0
+B	Netherlands	15	13	Defender	22	2	Ajax   	Joel Veltman	0
+B	Netherlands	15	12	Defender	30	2	Augsburg   	Paul Verhaegh	0
+B	Netherlands	15	2	Defender	29	24	Aston Villa  	Ron Vlaar	0
+B	Netherlands	15	3	Defender	22	12	Feyenoord   	Stefan de Vrij	0
+B	Netherlands	15	14	Defender	20	1	Feyenoord   	Terence Kongolo	0
+B	Netherlands	15	11	Midfielder	30	75	Bayern Munich  	Arjen Robben	0
+B	Netherlands	15	20	Midfielder	23	5	PSV   	Georginio Wijnaldum	0
+B	Netherlands	15	6	Midfielder	26	10	Swansea City  	Jonathan de Guzman	0
+B	Netherlands	15	16	Midfielder	22	8	Feyenoord   	Jordy Clasie	0
+B	Netherlands	15	18	Midfielder	24	6	Norwich City  	Leroy Fer	0
+B	Netherlands	15	21	Midfielder	20	6	PSV   	Memphis Depay	0
+B	Netherlands	15	8	Midfielder	29	71	Milan   	Nigel de Jong	0
+B	Netherlands	15	10	Midfielder	29	99	Galatasaray   	Wesley Sneijder	0
+B	Netherlands	15	15	Forward	33	98	Fenerbahce   	Dirk Kuyt	0
+B	Netherlands	15	17	Forward	26	22	Dynamo Kyiv  	Jeremain Lens	0
+B	Netherlands	15	19	Forward	30	62	Schalke 4  	Klaas-Jan Huntelaar	0
+B	Netherlands	15	9	Forward	30	85	Manchester United  	Robin van Persie 	1

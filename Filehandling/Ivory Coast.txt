@@ -1,0 +1,48 @@
+Group	Country	Rank	Jersey	Position	Age	Selections	Club	Player	Captain
+C	Ivory Coast	23	1	Goalie	34	79	Lokeren   	Boubacar Barry	0
+C	Ivory Coast	23	23	Goalie	21	1	Stabæk   	Sayouba Mande	0
+C	Ivory Coast	23	16	Goalie	25	1	Sewe Sport  	Sylvain Gbohouo	0
+C	Ivory Coast	23	3	Defender	31	79	VfB Stuttgart  	Arthur Boka	0
+C	Ivory Coast	23	18	Defender	27	4	Eintracht Frankfurt  	Constant Djakpa	0
+C	Ivory Coast	23	5	Defender	33	119	Trabzonspor   	Didier Zokora	0
+C	Ivory Coast	23	7	Defender	21	1	Toulouse   	Jean-Daniel Akpa-Akpro	0
+C	Ivory Coast	23	4	Defender	33	106	Liverpool   	Kolo Toure	0
+C	Ivory Coast	23	2	Defender	27	3	caykur Rizespor  	Ousmane Viera	0
+C	Ivory Coast	23	17	Defender	21	8	Toulouse   	Serge Aurier	0
+C	Ivory Coast	23	22	Defender	29	43	Trabzonspor   	Sol Bamba	0
+C	Ivory Coast	23	9	Midfielder	27	44	Newcastle United  	Cheick Tiote	0
+C	Ivory Coast	23	13	Midfielder	30	25	Hannover 96  	Didier Ya Konan	0
+C	Ivory Coast	23	14	Midfielder	21	1	Saint-etienne   	Ismael Diomande	0
+C	Ivory Coast	23	20	Midfielder	29	6	Basel   	Serey Die	0
+C	Ivory Coast	23	19	Midfielder	31	83	Manchester City  	Yaya Toure	0
+C	Ivory Coast	23	11	Forward	36	100	Galatasaray   	Didier Drogba 	1
+C	Ivory Coast	23	10	Forward	27	53	Roma   	Gervinho	0
+C	Ivory Coast	23	21	Forward	25	7	Basel   	Giovanni Sio	0
+C	Ivory Coast	23	6	Forward	23	3	Fortuna Düsseldorf  	Mathis Bolly	0
+C	Ivory Coast	23	15	Forward	26	25	Saint-etienne   	Max Gradel	0
+C	Ivory Coast	23	8	Forward	28	64	Lille   	Salomon Kalou	0
+C	Ivory Coast	23	12	Forward	25	24	Swansea City  	Wilfried Bony	0
+Group	Country	Rank	Jersey	Position	Age	Selections	Club	Player	Captain
+C	Ivory Coast	23	1	Goalie	34	79	Lokeren   	Boubacar Barry	0
+C	Ivory Coast	23	23	Goalie	21	1	StabÃ¦k   	Sayouba Mande	0
+C	Ivory Coast	23	16	Goalie	25	1	Sewe Sport  	Sylvain Gbohouo	0
+C	Ivory Coast	23	3	Defender	31	79	VfB Stuttgart  	Arthur Boka	0
+C	Ivory Coast	23	18	Defender	27	4	Eintracht Frankfurt  	Constant Djakpa	0
+C	Ivory Coast	23	5	Defender	33	119	Trabzonspor   	Didier Zokora	0
+C	Ivory Coast	23	7	Defender	21	1	Toulouse   	Jean-Daniel Akpa-Akpro	0
+C	Ivory Coast	23	4	Defender	33	106	Liverpool   	Kolo Toure	0
+C	Ivory Coast	23	2	Defender	27	3	caykur Rizespor  	Ousmane Viera	0
+C	Ivory Coast	23	17	Defender	21	8	Toulouse   	Serge Aurier	0
+C	Ivory Coast	23	22	Defender	29	43	Trabzonspor   	Sol Bamba	0
+C	Ivory Coast	23	9	Midfielder	27	44	Newcastle United  	Cheick Tiote	0
+C	Ivory Coast	23	13	Midfielder	30	25	Hannover 96  	Didier Ya Konan	0
+C	Ivory Coast	23	14	Midfielder	21	1	Saint-etienne   	Ismael Diomande	0
+C	Ivory Coast	23	20	Midfielder	29	6	Basel   	Serey Die	0
+C	Ivory Coast	23	19	Midfielder	31	83	Manchester City  	Yaya Toure	0
+C	Ivory Coast	23	11	Forward	36	100	Galatasaray   	Didier Drogba 	1
+C	Ivory Coast	23	10	Forward	27	53	Roma   	Gervinho	0
+C	Ivory Coast	23	21	Forward	25	7	Basel   	Giovanni Sio	0
+C	Ivory Coast	23	6	Forward	23	3	Fortuna DÃ¼sseldorf  	Mathis Bolly	0
+C	Ivory Coast	23	15	Forward	26	25	Saint-etienne   	Max Gradel	0
+C	Ivory Coast	23	8	Forward	28	64	Lille   	Salomon Kalou	0
+C	Ivory Coast	23	12	Forward	25	24	Swansea City  	Wilfried Bony	0

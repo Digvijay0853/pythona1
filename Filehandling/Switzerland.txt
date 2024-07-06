@@ -1,0 +1,24 @@
+Group	Country	Rank	Jersey	Position	Age	Selections	Club	Player	Captain
+E	Switzerland	6	1	Goalie	30	56	VfL Wolfsburg  	Diego Benaglio	0
+E	Switzerland	6	21	Goalie	23	0	Grasshopper   	Roman BÃ¼rki	0
+E	Switzerland	6	12	Goalie	25	6	Basel   	Yann Sommer	0
+E	Switzerland	6	22	Defender	22	5	Basel   	Fabian SchÃ¤r	0
+E	Switzerland	6	20	Defender	27	44	Hamburger SV  	Johan Djourou	0
+E	Switzerland	6	6	Defender	23	5	Grasshopper   	Michael Lang	0
+E	Switzerland	6	4	Defender	29	53	Valencia   	Philippe Senderos	0
+E	Switzerland	6	3	Defender	28	35	Sassuolo   	Reto Ziegler	0
+E	Switzerland	6	13	Defender	21	20	VfL Wolfsburg  	Ricardo Rodriguez	0
+E	Switzerland	6	2	Defender	30	62	Juventus   	Stephan Lichtsteiner	0
+E	Switzerland	6	5	Defender	30	40	Young Boys  	Steve von Bergen	0
+E	Switzerland	6	15	Midfielder	28	33	Napoli   	Blerim Dzemaili	0
+E	Switzerland	6	16	Midfielder	27	47	SC Freiburg  	Gelson Fernandes	0
+E	Switzerland	6	8	Midfielder	29	71	Napoli   	GÃ¶khan Inler 	1
+E	Switzerland	6	10	Midfielder	21	25	Borussia MÃ¶nchengladbach  	Granit Xhaka	0
+E	Switzerland	6	7	Midfielder	29	73	Eintracht Frankfurt  	Tranquillo Barnetta	0
+E	Switzerland	6	14	Midfielder	25	23	Basel   	Valentin Stocker	0
+E	Switzerland	6	11	Midfielder	29	47	Napoli   	Valon Behrami	0
+E	Switzerland	6	23	Midfielder	22	32	Bayern Munich  	Xherdan Shaqiri	0
+E	Switzerland	6	18	Forward	23	20	SC Freiburg  	Admir Mehmedi	0
+E	Switzerland	6	9	Forward	22	10	Real Sociedad  	Haris Seferovic	0
+E	Switzerland	6	19	Forward	21	6	1. FC NÃ¼rnberg 	Josip Drmic	0
+E	Switzerland	6	17	Forward	24	10	ZÃ¼rich   	Mario Gavranovic	0

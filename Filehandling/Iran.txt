@@ -1,0 +1,24 @@
+Group	Country	Rank	Jersey	Position	Age	Selections	Club	Player	Captain
+F	Iran	43	12	Goalie	26	5	Sporting CovilhÃ£  	Alireza Haghighi	0
+F	Iran	43	22	Goalie	26	4	Eintracht Braunschweig  	Daniel Davari	0
+F	Iran	43	1	Goalie	33	10	Sepahan   	Rahman Ahmadi	0
+F	Iran	43	17	Defender	31	9	Naft Tehran  	Ahmad Alnameh	0
+F	Iran	43	5	Defender	32	16	Esteghlal   	Amir Hossein Sadeghi	0
+F	Iran	43	19	Defender	30	17	Esteghlal   	Hashem Beikzadeh	0
+F	Iran	43	13	Defender	27	21	Persepolis   	Hossein Mahini	0
+F	Iran	43	4	Defender	32	84	Persepolis   	Jalal Hosseini	0
+F	Iran	43	23	Defender	27	19	Persepolis   	Mehrdad Pouladi	0
+F	Iran	43	15	Defender	30	21	Umm Salal  	Pejman Montazeri	0
+F	Iran	43	20	Defender	27	6	Vancouver Whitecaps  	Steven Beitashour	0
+F	Iran	43	14	Midfielder	31	78	Esteghlal   	Andranik Teymourian	0
+F	Iran	43	21	Midfielder	27	13	Fulham   	Ashkan Dejagah	0
+F	Iran	43	18	Midfielder	22	4	Foolad   	Bakhtiar Rahmani	0
+F	Iran	43	3	Midfielder	24	61	Sepahan   	Ehsan Hajsafi	0
+F	Iran	43	11	Midfielder	30	16	Zob Ahan  	Ghasem Haddadifar	0
+F	Iran	43	6	Midfielder	33	139	Al-Kuwait   	Javad Nekounam 	1
+F	Iran	43	2	Midfielder	30	48	Esteghlal   	Khosro Heydari	0
+F	Iran	43	7	Midfielder	29	49	Las Palmas  	Masoud Shojaei	0
+F	Iran	43	8	Midfielder	25	7	Persepolis   	Reza Haghighi	0
+F	Iran	43	9	Forward	20	6	NEC   	Alireza Jahanbakhsh	0
+F	Iran	43	10	Forward	24	41	Tractor Sazi  	Karim Ansarifard	0
+F	Iran	43	16	Forward	26	13	Charlton Athletic  	Reza Ghoochannejhad	0

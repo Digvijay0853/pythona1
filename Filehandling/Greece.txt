@@ -1,0 +1,48 @@
+Group	Country	Rank	Jersey	Position	Age	Selections	Club	Player	Captain
+C	Greece	12	1	Goalie	28	19	Granada   	Orestis Karnezis	0
+C	Greece	12	12	Goalie	28	2	PAOK   	Panagiotis Glykos	0
+C	Greece	12	13	Goalie	20	2	Panathinaikos   	Stefanos Kapino	0
+C	Greece	12	2	Midfielder	27	30	Olympiacos   	Giannis Maniatis	0
+C	Greece	12	3	Defender	26	13	PAOK   	Giorgos Tzavellas	0
+C	Greece	12	20	Defender	29	22	Olympiacos   	Jose Holebas	0
+C	Greece	12	4	Defender	22	9	Olympiacos   	Kostas Manolas	0
+C	Greece	12	11	Defender	33	50	Levante   	Loukas Vyntra	0
+C	Greece	12	19	Defender	25	47	Borussia Dortmund  	Sokratis Papastathopoulos	0
+C	Greece	12	5	Defender	32	19	Verona   	Vangelis Moras	0
+C	Greece	12	15	Defender	28	66	Roma   	Vasilis Torosidis	0
+C	Greece	12	6	Midfielder	29	49	Kayserispor   	Alexandros Tziolis	0
+C	Greece	12	22	Midfielder	24	4	Olympiacos   	Andreas Samaris	0
+C	Greece	12	18	Midfielder	23	19	Genoa   	Giannis Fetfatzidis	0
+C	Greece	12	10	Midfielder	37	135	Fulham   	Giorgos Karagounis 	1
+C	Greece	12	21	Midfielder	34	111	PAOK   	Kostas Katsouranis	0
+C	Greece	12	16	Midfielder	27	19	Bologna   	Lazaros Christodoulopoulos	0
+C	Greece	12	8	Midfielder	26	16	Bologna   	Panagiotis Kone	0
+C	Greece	12	23	Midfielder	23	6	Torino   	Panagiotis Tachtsidis	0
+C	Greece	12	14	Forward	32	76	PAOK   	Dimitris Salpingidis	0
+C	Greece	12	7	Forward	29	74	Celtic   	Giorgos Samaras	0
+C	Greece	12	9	Forward	26	32	Fulham   	Kostas Mitroglou	0
+C	Greece	12	17	Forward	34	72	Konyaspor   	Theofanis Gekas	0
+Group	Country	Rank	Jersey	Position	Age	Selections	Club	Player	Captain
+C	Greece	12	1	Goalie	28	19	Granada   	Orestis Karnezis	0
+C	Greece	12	12	Goalie	28	2	PAOK   	Panagiotis Glykos	0
+C	Greece	12	13	Goalie	20	2	Panathinaikos   	Stefanos Kapino	0
+C	Greece	12	2	Midfielder	27	30	Olympiacos   	Giannis Maniatis	0
+C	Greece	12	3	Defender	26	13	PAOK   	Giorgos Tzavellas	0
+C	Greece	12	20	Defender	29	22	Olympiacos   	Jose Holebas	0
+C	Greece	12	4	Defender	22	9	Olympiacos   	Kostas Manolas	0
+C	Greece	12	11	Defender	33	50	Levante   	Loukas Vyntra	0
+C	Greece	12	19	Defender	25	47	Borussia Dortmund  	Sokratis Papastathopoulos	0
+C	Greece	12	5	Defender	32	19	Verona   	Vangelis Moras	0
+C	Greece	12	15	Defender	28	66	Roma   	Vasilis Torosidis	0
+C	Greece	12	6	Midfielder	29	49	Kayserispor   	Alexandros Tziolis	0
+C	Greece	12	22	Midfielder	24	4	Olympiacos   	Andreas Samaris	0
+C	Greece	12	18	Midfielder	23	19	Genoa   	Giannis Fetfatzidis	0
+C	Greece	12	10	Midfielder	37	135	Fulham   	Giorgos Karagounis 	1
+C	Greece	12	21	Midfielder	34	111	PAOK   	Kostas Katsouranis	0
+C	Greece	12	16	Midfielder	27	19	Bologna   	Lazaros Christodoulopoulos	0
+C	Greece	12	8	Midfielder	26	16	Bologna   	Panagiotis Kone	0
+C	Greece	12	23	Midfielder	23	6	Torino   	Panagiotis Tachtsidis	0
+C	Greece	12	14	Forward	32	76	PAOK   	Dimitris Salpingidis	0
+C	Greece	12	7	Forward	29	74	Celtic   	Giorgos Samaras	0
+C	Greece	12	9	Forward	26	32	Fulham   	Kostas Mitroglou	0
+C	Greece	12	17	Forward	34	72	Konyaspor   	Theofanis Gekas	0

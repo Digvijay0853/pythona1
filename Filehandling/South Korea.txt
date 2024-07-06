@@ -1,0 +1,24 @@
+Group	Country	Rank	Jersey	Position	Age	Selections	Club	Player	Captain
+H	South Korea	57	1	Goalie	29	60	Suwon Bluewings  	Jung Sung-Ryong	0
+H	South Korea	57	21	Goalie	23	5	Ulsan Hyundai  	Kim Seung-Gyu	0
+H	South Korea	57	23	Goalie	25	0	Busan I'Park  	Lee Bum-Young	0
+H	South Korea	57	20	Defender	24	24	FC Augsburg  	Hong Jeong-Ho	0
+H	South Korea	57	6	Defender	24	3	Sanfrecce Hiroshima  	Hwang Seok-Ho	0
+H	South Korea	57	2	Defender	28	8	Kashiwa Reysol  	Kim Chang-Soo	0
+H	South Korea	57	5	Defender	24	20	Guangzhou Evergrande  	Kim Young-Gwon	0
+H	South Korea	57	4	Defender	32	34	Al-Hilal   	Kwak Tae-Hwi	0
+H	South Korea	57	12	Defender	27	11	Ulsan Hyundai  	Lee Yong	0
+H	South Korea	57	22	Defender	27	13	Mainz 5  	Park Joo-Ho	0
+H	South Korea	57	3	Defender	24	3	Queens Park Rangers 	Yun Suk-Young	0
+H	South Korea	57	8	Midfielder	29	13	Beijing Guoan  	Ha Dae-Sung	0
+H	South Korea	57	14	Midfielder	24	9	Kashiwa Reysol  	Han Kook-Young	0
+H	South Korea	57	16	Midfielder	25	58	Sunderland   	Ki Sung-Yueng	0
+H	South Korea	57	7	Midfielder	24	27	Cardiff City  	Kim Bo-Kyung	0
+H	South Korea	57	13	Midfielder	25	36	Mainz 5  	Koo Ja-Cheol 	1
+H	South Korea	57	17	Midfielder	25	54	Bolton Wanderers  	Lee Chung-Yong	0
+H	South Korea	57	15	Midfielder	25	10	Guangzhou R&F  	Park Jong-Woo	0
+H	South Korea	57	19	Forward	23	27	FC Augsburg  	Ji Dong-Won	0
+H	South Korea	57	18	Forward	26	26	Ulsan Hyundai  	Kim Shin-Wook	0
+H	South Korea	57	11	Forward	29	63	Sangju Sangmu  	Lee Keun-Ho	0
+H	South Korea	57	10	Forward	28	63	Watford   	Park Chu-Young	0
+H	South Korea	57	9	Forward	21	24	Bayer Leverkusen  	Son Heung-Min	0

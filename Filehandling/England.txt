@@ -1,0 +1,24 @@
+Group	Country	Rank	Jersey	Position	Age	Selections	Club	Player	Captain
+D	England	10	13	Goalie	31	6	West Bromwich Albion 	Ben Foster	0
+D	England	10	22	Goalie	26	1	Celtic   	Fraser Forster	0
+D	England	10	1	Goalie	27	40	Manchester City  	Joe Hart	0
+D	England	10	12	Defender	24	11	Manchester United  	Chris Smalling	0
+D	England	10	5	Defender	28	23	Chelsea   	Gary Cahill	0
+D	England	10	2	Defender	29	51	Liverpool   	Glen Johnson	0
+D	England	10	3	Defender	29	23	Everton   	Leighton Baines	0
+D	England	10	23	Defender	18	1	Southampton   	Luke Shaw	0
+D	England	10	6	Defender	31	25	Everton   	Phil Jagielka	0
+D	England	10	16	Defender	22	9	Manchester United  	Phil Jones	0
+D	England	10	20	Midfielder	26	4	Southampton   	Adam Lallana	0
+D	England	10	15	Midfielder	20	14	Arsenal   	Alex Oxlade-Chamberlain	0
+D	England	10	8	Midfielder	35	103	Chelsea   	Frank Lampard	0
+D	England	10	7	Midfielder	22	16	Arsenal   	Jack Wilshere	0
+D	England	10	17	Midfielder	28	46	Manchester City  	James Milner	0
+D	England	10	14	Midfielder	23	9	Liverpool   	Jordan Henderson	0
+D	England	10	19	Midfielder	19	3	Liverpool   	Raheem Sterling	0
+D	England	10	21	Midfielder	20	4	Everton   	Ross Barkley	0
+D	England	10	4	Midfielder	34	110	Liverpool   	Steven Gerrard 	1
+D	England	10	9	Forward	24	11	Liverpool   	Daniel Sturridge	0
+D	England	10	11	Forward	23	22	Manchester United  	Danny Welbeck	0
+D	England	10	18	Forward	32	4	Southampton   	Rickie Lambert	0
+D	England	10	10	Forward	28	90	Manchester United  	Wayne Rooney	0

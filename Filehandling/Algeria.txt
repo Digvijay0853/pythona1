@@ -1,0 +1,24 @@
+Group	Country	Rank	Jersey	Position	Age	Selections	Club	Player	Captain
+H	Algeria	22	1	Goalie	29	1	CS Constantine  	Cedric Si Mohamed	0
+H	Algeria	22	16	Goalie	29	7	USM Alger  	Mohamed Zemmamouche	0
+H	Algeria	22	23	Goalie	28	27	CSKA Sofia  	Raes M'Bolhi	0
+H	Algeria	22	20	Defender	22	2	Reims   	Aissa Mandi	0
+H	Algeria	22	7	Defender	29	25	Valenciennes   	Carl Medjani	0
+H	Algeria	22	6	Defender	29	26	Livorno   	Djamel Mesbah	0
+H	Algeria	22	4	Defender	25	13	Watford   	Essaed Belkalem	0
+H	Algeria	22	3	Defender	23	5	Napoli   	Faouzi Ghoulam	0
+H	Algeria	22	17	Defender	26	6	Mallorca   	Liassine Cadamuro-Bentaeba	0
+H	Algeria	22	2	Defender	31	61	Lekhwiya   	Madjid Bougherra 	1
+H	Algeria	22	5	Defender	27	28	Academica   	Rafik Halliche	0
+H	Algeria	22	18	Midfielder	27	76	Club Africain  	Abdelmoumene Djabou	0
+H	Algeria	22	8	Midfielder	30	24	Udinese   	Hassan Yebda	0
+H	Algeria	22	12	Midfielder	30	29	Getafe   	Medhi Lacen	0
+H	Algeria	22	22	Midfielder	30	22	Ajaccio   	Mehdi Mostefa	0
+H	Algeria	22	14	Midfielder	19	2	Tottenham Hotspur  	Nabil Bentaleb	0
+H	Algeria	22	21	Midfielder	23	1	Leicester City  	Riyad Mahrez	0
+H	Algeria	22	19	Midfielder	22	10	Internazionale   	Saphir Taeder	0
+H	Algeria	22	10	Midfielder	24	18	Valencia   	Sofiane Feghouli	0
+H	Algeria	22	11	Midfielder	24	5	Granada   	Yacine Brahimi	0
+H	Algeria	22	15	Forward	26	21	Dinamo Zagreb  	El Arbi Hillel Soudani	0
+H	Algeria	22	13	Forward	25	19	Sporting CP  	Islam Slimani	0
+H	Algeria	22	9	Forward	24	5	Porto   	Nabil Ghilas	0

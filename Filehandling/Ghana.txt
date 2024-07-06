@@ -1,0 +1,24 @@
+Group	Country	Rank	Jersey	Position	Age	Selections	Club	Player	Captain
+G	Ghana	37	12	Goalie	26	21	StrÃ¸msgodset   	Adam Kwarasey	0
+G	Ghana	37	16	Goalie	29	17	Orlando Pirates  	Fatau Dauda	0
+G	Ghana	37	1	Goalie	24	7	Aduana Stars  	Steven Adams	0
+G	Ghana	37	4	Defender	23	16	Standard Liege  	Daniel Opare	0
+G	Ghana	37	23	Defender	27	40	Esperance   	Harrison Afful	0
+G	Ghana	37	21	Defender	27	29	Rennes   	John Boye	0
+G	Ghana	37	19	Defender	23	26	evian   	Jonathan Mensah	0
+G	Ghana	37	15	Defender	21	6	Mamelodi Sundowns  	Rashid Sumaila	0
+G	Ghana	37	2	Defender	25	46	Platanias   	Samuel Inkoom	0
+G	Ghana	37	6	Midfielder	22	4	Parma   	Acquah Afriyie	0
+G	Ghana	37	14	Midfielder	26	14	Middlesbrough   	Albert Adomah	0
+G	Ghana	37	10	Midfielder	24	48	Marseille   	Andre Ayew	0
+G	Ghana	37	7	Midfielder	22	22	Vitesse   	Christian Atsu	0
+G	Ghana	37	8	Midfielder	23	48	Udinese   	Emmanuel Agyemang-Badu	0
+G	Ghana	37	20	Midfielder	25	61	Juventus   	Kwadwo Asamoah	0
+G	Ghana	37	5	Midfielder	31	57	Milan   	Michael Essien	0
+G	Ghana	37	17	Midfielder	24	16	Kuban Krasnodar  	Mohammed Rabiu	0
+G	Ghana	37	11	Midfielder	29	81	Milan   	Sulley Muntari	0
+G	Ghana	37	22	Midfielder	23	16	Rubin Kazan  	Wakaso Mubarak	0
+G	Ghana	37	3	Forward	28	78	Al-Ain   	Asamoah Gyan 	1
+G	Ghana	37	13	Forward	22	12	Sochaux   	Jordan Ayew	0
+G	Ghana	37	9	Forward	27	12	Schalke 4  	Kevin-Prince Boateng	0
+G	Ghana	37	18	Forward	22	9	Valenciennes   	Majeed Waris	0

@@ -1,0 +1,24 @@
+Group	Country	Rank	Jersey	Position	Age	Selections	Club	Player	Captain
+G	Germany	2	1	Goalie	28	45	Bayern Munich  	Manuel Neuer	0
+G	Germany	2	22	Goalie	33	2	Borussia Dortmund  	Roman Weidenfeller	0
+G	Germany	2	12	Goalie	25	3	Hannover 96  	Ron-Robert Zieler	0
+G	Germany	2	4	Defender	26	20	Schalke 4  	Benedikt HÃ¶wedes	0
+G	Germany	2	15	Defender	22	1	Borussia Dortmund  	Erik Durm	0
+G	Germany	2	20	Defender	25	38	Bayern Munich  	JerÃ´me Boateng	0
+G	Germany	2	2	Defender	25	4	Borussia Dortmund  	Kevin GroÃŸkreutz	0
+G	Germany	2	5	Defender	25	29	Borussia Dortmund  	Mats Hummels	0
+G	Germany	2	17	Defender	29	97	Arsenal   	Per Mertesacker	0
+G	Germany	2	16	Defender	30	105	Bayern Munich  	Philipp Lahm 	1
+G	Germany	2	9	Midfielder	23	32	Chelsea   	Andre SchÃ¼rrle	0
+G	Germany	2	7	Midfielder	29	101	Bayern Munich  	Bastian Schweinsteiger	0
+G	Germany	2	23	Midfielder	23	2	Borussia MÃ¶nchengladbach  	Christoph Kramer	0
+G	Germany	2	14	Midfielder	20	11	Schalke 4  	Julian Draxler	0
+G	Germany	2	19	Midfielder	22	28	Bayern Munich  	Mario GÃ¶tze	0
+G	Germany	2	3	Midfielder	20	2	SC Freiburg  	Matthias Ginter	0
+G	Germany	2	8	Midfielder	25	54	Arsenal   	Mesut Ã–zil	0
+G	Germany	2	6	Midfielder	27	45	Real Madrid  	Sami Khedira	0
+G	Germany	2	13	Midfielder	24	48	Bayern Munich  	Thomas MÃ¼ller	0
+G	Germany	2	18	Midfielder	24	43	Bayern Munich  	Toni Kroos	0
+G	Germany	2	10	Forward	29	113	Arsenal   	Lukas Podolski	0
+G	Germany	2	11	Forward	35	131	Lazio   	Miroslav Klose	0
+G	Germany	2	21	DÃ©fenseur	22	1	Sampdoria	Shkodran Mustafi	0

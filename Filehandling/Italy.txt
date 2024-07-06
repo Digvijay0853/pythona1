@@ -1,0 +1,24 @@
+Group	Country	Rank	Jersey	Position	Age	Selections	Club	Player	Captain
+D	Italy	9	1	Goalie	36	139	Juventus   	Gianluigi Buffon 	1
+D	Italy	9	13	Goalie	21	0	Genoa   	Mattia Perin	0
+D	Italy	9	12	Goalie	27	8	Paris Saint-Germain  	Salvatore Sirigu	0
+D	Italy	9	15	Defender	33	47	Juventus   	Andrea Barzagli	0
+D	Italy	9	20	Defender	28	2	Parma   	Gabriel Paletta	0
+D	Italy	9	3	Defender	29	67	Juventus   	Giorgio Chiellini	0
+D	Italy	9	7	Defender	27	19	Milan   	Ignazio Abate	0
+D	Italy	9	19	Defender	27	36	Juventus   	Leonardo Bonucci	0
+D	Italy	9	4	Defender	24	1	Torino   	Matteo Darmian	0
+D	Italy	9	2	Defender	21	10	Milan   	Mattia De Sciglio	0
+D	Italy	9	14	Midfielder	29	34	Fiorentina   	Alberto Aquilani	0
+D	Italy	9	21	Midfielder	35	108	Juventus   	Andrea Pirlo	0
+D	Italy	9	6	Midfielder	27	19	Lazio   	Antonio Candreva	0
+D	Italy	9	8	Midfielder	28	43	Juventus   	Claudio Marchisio	0
+D	Italy	9	16	Midfielder	30	94	Roma   	Daniele De Rossi	0
+D	Italy	9	18	Midfielder	29	3	Parma   	Marco Parolo	0
+D	Italy	9	23	Midfielder	21	5	Paris Saint-Germain  	Marco Verratti	0
+D	Italy	9	5	Midfielder	31	20	Paris Saint-Germain  	Thiago Motta	0
+D	Italy	9	11	Forward	26	11	Torino   	Alessio Cerci	0
+D	Italy	9	10	Forward	31	36	Parma   	Antonio Cassano	0
+D	Italy	9	17	Forward	24	2	Torino   	Ciro Immobile	0
+D	Italy	9	22	Forward	23	4	Napoli   	Lorenzo Insigne	0
+D	Italy	9	9	Forward	23	29	Milan   	Mario Balotelli	0

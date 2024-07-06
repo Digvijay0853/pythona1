@@ -1,0 +1,48 @@
+Group	Country	Rank	Jersey	Position	Age	Selections	Club	Player	Captain
+B	Australia	62	18	Goalie	32	8	Adelaide United  	Eugene Galekovic	0
+B	Australia	62	1	Goalie	22	7	Club Brugge  	Mathew Ryan	0
+B	Australia	62	12	Goalie	25	3	Borussia Dortmund  	Mitchell Langerak	0
+B	Australia	62	22	Defender	29	3	Jeonbuk Hyundai Motors 	Alex Wilkinson	0
+B	Australia	62	8	Defender	21	0	Preston North End 	Bailey Wright	0
+B	Australia	62	2	Defender	26	9	Brisbane Roar  	Ivan Franjic	0
+B	Australia	62	3	Defender	22	7	Heracles Almelo  	Jason Davidson	0
+B	Australia	62	6	Defender	25	18	Western Sydney Wanderers 	Matthew Spiranovic	0
+B	Australia	62	19	Defender	24	9	Shandong Luneng Taishan 	Ryan McGowan	0
+B	Australia	62	10	Midfielder	21	2	Fortuna Düsseldorf  	Ben Halloran	0
+B	Australia	62	20	Midfielder	27	23	Sion   	Dario Vidosic	0
+B	Australia	62	16	Midfielder	25	14	Autriche Wien  	James Holland	0
+B	Australia	62	14	Midfielder	25	11	Atalanta   	James Troisi	0
+B	Australia	62	23	Midfielder	34	74	Al-Gharafa   	Mark Bresciano	0
+B	Australia	62	5	Midfielder	28	29	Melbourne Victory  	Mark Milligan	0
+B	Australia	62	21	Midfielder	21	1	Swindon Town  	Massimo Luongo	0
+B	Australia	62	17	Midfielder	31	47	Brisbane Roar  	Matt McKay	0
+B	Australia	62	15	Midfielder	29	44	Crystal Palace  	Mile Jedinak 	1
+B	Australia	62	13	Midfielder	25	3	Luzern   	Oliver Bozanic	0
+B	Australia	62	11	Midfielder	22	15	Utrecht   	Tommy Oar	0
+B	Australia	62	9	Forward	21	5	Newcastle Jets  	Adam Taggart	0
+B	Australia	62	7	Forward	23	8	FSV Frankfurt  	Mathew Leckie	0
+B	Australia	62	4	Forward	34	69	New York Red Bulls	Tim Cahill	0
+Group	Country	Rank	Jersey	Position	Age	Selections	Club	Player	Captain
+B	Australia	62	18	Goalie	32	8	Adelaide United  	Eugene Galekovic	0
+B	Australia	62	1	Goalie	22	7	Club Brugge  	Mathew Ryan	0
+B	Australia	62	12	Goalie	25	3	Borussia Dortmund  	Mitchell Langerak	0
+B	Australia	62	22	Defender	29	3	Jeonbuk Hyundai Motors 	Alex Wilkinson	0
+B	Australia	62	8	Defender	21	0	Preston North End 	Bailey Wright	0
+B	Australia	62	2	Defender	26	9	Brisbane Roar  	Ivan Franjic	0
+B	Australia	62	3	Defender	22	7	Heracles Almelo  	Jason Davidson	0
+B	Australia	62	6	Defender	25	18	Western Sydney Wanderers 	Matthew Spiranovic	0
+B	Australia	62	19	Defender	24	9	Shandong Luneng Taishan 	Ryan McGowan	0
+B	Australia	62	10	Midfielder	21	2	Fortuna DÃ¼sseldorf  	Ben Halloran	0
+B	Australia	62	20	Midfielder	27	23	Sion   	Dario Vidosic	0
+B	Australia	62	16	Midfielder	25	14	Autriche Wien  	James Holland	0
+B	Australia	62	14	Midfielder	25	11	Atalanta   	James Troisi	0
+B	Australia	62	23	Midfielder	34	74	Al-Gharafa   	Mark Bresciano	0
+B	Australia	62	5	Midfielder	28	29	Melbourne Victory  	Mark Milligan	0
+B	Australia	62	21	Midfielder	21	1	Swindon Town  	Massimo Luongo	0
+B	Australia	62	17	Midfielder	31	47	Brisbane Roar  	Matt McKay	0
+B	Australia	62	15	Midfielder	29	44	Crystal Palace  	Mile Jedinak 	1
+B	Australia	62	13	Midfielder	25	3	Luzern   	Oliver Bozanic	0
+B	Australia	62	11	Midfielder	22	15	Utrecht   	Tommy Oar	0
+B	Australia	62	9	Forward	21	5	Newcastle Jets  	Adam Taggart	0
+B	Australia	62	7	Forward	23	8	FSV Frankfurt  	Mathew Leckie	0
+B	Australia	62	4	Forward	34	69	New York Red Bulls	Tim Cahill	0

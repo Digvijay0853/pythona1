@@ -1,0 +1,48 @@
+Group	Country	Rank	Jersey	Position	Age	Selections	Club	Player	Captain
+C	Colombia	8	12	Goalie	24	0	Santa Fe  	Camilo Vargas	0
+C	Colombia	8	1	Goalie	25	44	Nice   	David Ospina	0
+C	Colombia	8	22	Goalie	42	50	Deportivo Cali  	Faryd Mondragon	0
+C	Colombia	8	23	Defender	29	14	San Lorenzo  	Carlos Valdes	0
+C	Colombia	8	2	Defender	27	24	Milan   	Cristian Zapata	0
+C	Colombia	8	16	Defender	21	3	River Plate  	Eder Alvarez Balanta	0
+C	Colombia	8	18	Defender	28	50	Napoli   	Juan Camilo Zuniga	0
+C	Colombia	8	3	Defender	38	98	Atalanta   	Mario Yepes 	1
+C	Colombia	8	7	Defender	27	53	West Ham United 	Pablo Armero	0
+C	Colombia	8	4	Defender	22	6	PSV   	Santiago Arias	0
+C	Colombia	8	8	Midfielder	29	49	Toulouse   	Abel Aguilar	0
+C	Colombia	8	5	Midfielder	23	1	River Plate  	Carlos Carbonero	0
+C	Colombia	8	15	Midfielder	25	8	Atletico Nacional  	Alexander Mejia	0
+C	Colombia	8	6	Midfielder	28	44	Elche   	Carlos Sanchez	0
+C	Colombia	8	13	Midfielder	27	49	Internazionale   	Fredy Guarin	0
+C	Colombia	8	10	Midfielder	22	22	Monaco   	James Rodriguez	0
+C	Colombia	8	20	Midfielder	21	4	Porto   	Juan Fernando Quintero	0
+C	Colombia	8	11	Midfielder	26	28	Fiorentina   	Juan Guillermo Cuadrado	0
+C	Colombia	8	14	Midfielder	24	9	Cagliari   	Victor Ibarbo	0
+C	Colombia	8	19	Forward	28	26	Hertha BSC  	Adrian Ramos	0
+C	Colombia	8	17	Forward	27	11	Sevilla   	Carlos Bacca	0
+C	Colombia	8	21	Forward	27	27	Porto   	Jackson Martinez	0
+C	Colombia	8	9	Forward	29	30	River Plate  	Teofilo Gutierrez	0
+Group	Country	Rank	Jersey	Position	Age	Selections	Club	Player	Captain
+C	Colombia	8	12	Goalie	24	0	Santa Fe  	Camilo Vargas	0
+C	Colombia	8	1	Goalie	25	44	Nice   	David Ospina	0
+C	Colombia	8	22	Goalie	42	50	Deportivo Cali  	Faryd Mondragon	0
+C	Colombia	8	23	Defender	29	14	San Lorenzo  	Carlos Valdes	0
+C	Colombia	8	2	Defender	27	24	Milan   	Cristian Zapata	0
+C	Colombia	8	16	Defender	21	3	River Plate  	Eder Alvarez Balanta	0
+C	Colombia	8	18	Defender	28	50	Napoli   	Juan Camilo Zuniga	0
+C	Colombia	8	3	Defender	38	98	Atalanta   	Mario Yepes 	1
+C	Colombia	8	7	Defender	27	53	West Ham United 	Pablo Armero	0
+C	Colombia	8	4	Defender	22	6	PSV   	Santiago Arias	0
+C	Colombia	8	8	Midfielder	29	49	Toulouse   	Abel Aguilar	0
+C	Colombia	8	5	Midfielder	23	1	River Plate  	Carlos Carbonero	0
+C	Colombia	8	15	Midfielder	25	8	Atletico Nacional  	Alexander Mejia	0
+C	Colombia	8	6	Midfielder	28	44	Elche   	Carlos Sanchez	0
+C	Colombia	8	13	Midfielder	27	49	Internazionale   	Fredy Guarin	0
+C	Colombia	8	10	Midfielder	22	22	Monaco   	James Rodriguez	0
+C	Colombia	8	20	Midfielder	21	4	Porto   	Juan Fernando Quintero	0
+C	Colombia	8	11	Midfielder	26	28	Fiorentina   	Juan Guillermo Cuadrado	0
+C	Colombia	8	14	Midfielder	24	9	Cagliari   	Victor Ibarbo	0
+C	Colombia	8	19	Forward	28	26	Hertha BSC  	Adrian Ramos	0
+C	Colombia	8	17	Forward	27	11	Sevilla   	Carlos Bacca	0
+C	Colombia	8	21	Forward	27	27	Porto   	Jackson Martinez	0
+C	Colombia	8	9	Forward	29	30	River Plate  	Teofilo Gutierrez	0

@@ -1,0 +1,24 @@
+Group	Country	Rank	Jersey	Position	Age	Selections	Club	Player	Captain
+G	Portugal	4	22	Goalie	32	7	Sevilla   	Beto	0
+G	Portugal	4	1	Goalie	31	33	Braga   	Eduardo	0
+G	Portugal	4	12	Goalie	26	29	Sporting   	Rui Patricio	0
+G	Portugal	4	19	Defender	23	3	Benfica   	Andre Almeida	0
+G	Portugal	4	2	Defender	32	71	Fenerbahce   	Bruno Alves	0
+G	Portugal	4	5	Defender	26	43	Real Madrid  	Fabio CoentrÃ£o	0
+G	Portugal	4	21	Defender	30	35	Valencia   	JoÃ£o Pereira	0
+G	Portugal	4	14	Defender	26	7	Zenit Saint Petersburg 	Luis Neto	0
+G	Portugal	4	3	Defender	31	57	Real Madrid  	Pepe	0
+G	Portugal	4	13	Defender	33	18	Valencia   	Ricardo Costa	0
+G	Portugal	4	8	Midfielder	27	66	Monaco   	JoÃ£o Moutinho	0
+G	Portugal	4	4	Midfielder	28	47	Dynamo Kyiv  	Miguel Veloso	0
+G	Portugal	4	17	Midfielder	27	73	Manchester United  	Nani	0
+G	Portugal	4	15	Midfielder	21	2	Braga   	Rafa Silva	0
+G	Portugal	4	16	Midfielder	31	73	Fenerbahce   	Raul Meireles	0
+G	Portugal	4	20	Midfielder	29	11	Benfica   	Ruben Amorim	0
+G	Portugal	4	18	Midfielder	29	22	Porto   	Silvestre Varela	0
+G	Portugal	4	10	Midfielder	28	7	VfL Wolfsburg  	Vieirinha	0
+G	Portugal	4	6	Midfielder	22	3	Sporting   	William Carvalho	0
+G	Portugal	4	7	Forward	29	110	Real Madrid  	Cristiano Ronaldo 	1
+G	Portugal	4	11	Forward	26	7	Braga   	eder	0
+G	Portugal	4	23	Forward	31	67	Lazio   	Helder Postiga	0
+G	Portugal	4	9	Forward	30	54	Besiktas   	Hugo Almeida	0

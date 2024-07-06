@@ -1,0 +1,24 @@
+Group	Country	Rank	Jersey	Position	Age	Selections	Club	Player	Captain
+G	USA	13	12	Goalie	29	25	Aston Villa  	Brad Guzan	0
+G	USA	13	22	Goalie	34	14	Real Salt Lake 	Nick Rimando	0
+G	USA	13	1	Goalie	35	99	Everton   	Tim Howard	0
+G	USA	13	7	Defender	32	115	Puebla   	DaMarcus Beasley	0
+G	USA	13	2	Defender	20	4	Seattle Sounders FC 	DeAndre Yedlin	0
+G	USA	13	23	Defender	26	21	1899 Hoffenheim  	Fabian Johnson	0
+G	USA	13	20	Defender	28	26	Stoke City  	Geoff Cameron	0
+G	USA	13	6	Defender	21	4	Hertha BSC  	John Brooks	0
+G	USA	13	5	Defender	27	16	Sporting Kansas City 	Matt Besler	0
+G	USA	13	3	Defender	25	19	Los Angeles Galaxy 	Omar Gonzalez	0
+G	USA	13	21	Defender	24	12	1. FC NÃ¼rnberg 	Timothy Chandler	0
+G	USA	13	11	Midfielder	27	27	Nantes   	Alejandro Bedoya	0
+G	USA	13	14	Midfielder	32	16	Houston Dynamo  	Brad Davis	0
+G	USA	13	19	Midfielder	27	22	Sporting Kansas City 	Graham Zusi	0
+G	USA	13	13	Midfielder	32	41	Besiktas   	Jermaine Jones	0
+G	USA	13	16	Midfielder	19	2	Bayern Munich  	Julian Green	0
+G	USA	13	15	Midfielder	32	36	Real Salt Lake 	Kyle Beckerman	0
+G	USA	13	4	Midfielder	26	85	Toronto FC  	Michael Bradley	0
+G	USA	13	10	Midfielder	23	19	Rosenborg   	Mikkel Diskerud	0
+G	USA	13	9	Forward	23	8	AZ   	Aron Johannsson	0
+G	USA	13	18	Forward	31	20	San Jose Earthquakes 	Chris Wondolowski	0
+G	USA	13	8	Forward	31	104	Seattle Sounders FC 	Clint Dempsey 	1
+G	USA	13	17	Forward	24	69	Sunderland   	Jozy Altidore	0

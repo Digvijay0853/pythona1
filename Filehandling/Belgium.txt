@@ -1,0 +1,24 @@
+Group	Country	Rank	Jersey	Position	Age	Selections	Club	Player	Captain
+H	Belgium	11	13	Goalie	28	1	Zulte Waregem  	Sammy Bossut	0
+H	Belgium	11	12	Goalie	25	14	Liverpool   	Simon Mignolet	0
+H	Belgium	11	1	Goalie	22	16	Atletico Madrid  	Thibaut Courtois	0
+H	Belgium	11	21	Defender	26	25	Anderlecht   	Anthony Vanden Borre	0
+H	Belgium	11	15	Defender	36	79	Bayern Munich  	Daniel Van Buyten	0
+H	Belgium	11	5	Defender	27	56	Tottenham Hotspur  	Jan Vertonghen	0
+H	Belgium	11	23	Defender	28	8	Standard Liege  	Laurent Ciman	0
+H	Belgium	11	18	Defender	29	26	Zenit Saint Petersburg 	Nicolas Lombaerts	0
+H	Belgium	11	3	Defender	28	48	Arsenal   	Thomas Vermaelen	0
+H	Belgium	11	2	Defender	25	34	Atletico Madrid  	Toby Alderweireld	0
+H	Belgium	11	4	Defender	28	59	Manchester City  	Vincent Kompany 	1
+H	Belgium	11	20	Midfielder	19	1	Manchester United  	Adnan Januzaj	0
+H	Belgium	11	6	Midfielder	25	48	Zenit Saint Petersburg 	Axel Witsel	0
+H	Belgium	11	10	Midfielder	23	45	Chelsea   	Eden Hazard	0
+H	Belgium	11	7	Midfielder	22	22	VfL Wolfsburg  	Kevin De Bruyne	0
+H	Belgium	11	11	Midfielder	26	44	Everton   	Kevin Mirallas	0
+H	Belgium	11	8	Midfielder	26	50	Manchester United  	Marouane Fellaini	0
+H	Belgium	11	19	Midfielder	26	55	Tottenham Hotspur  	Mousa Dembele	0
+H	Belgium	11	22	Midfielder	24	20	Tottenham Hotspur  	Nacer Chadli	0
+H	Belgium	11	16	Midfielder	26	43	Porto   	Steven Defour	0
+H	Belgium	11	17	Forward	19	2	Lille   	Divock Origi	0
+H	Belgium	11	14	Forward	27	24	Napoli   	Dries Mertens	0
+H	Belgium	11	9	Forward	21	29	Everton   	Romelu Lukaku	0
